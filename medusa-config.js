@@ -1,8 +1,8 @@
-import { loadEnv, defineConfig, Modules } from "@medusajs/framework/utils"
+const { loadEnv, defineConfig, Modules } = require("@medusajs/framework/utils")
 
 loadEnv(process.env.NODE_ENV || "development", process.cwd())
 
-export default defineConfig({
+module.exports = defineConfig({
   projectConfig: {
     databaseUrl: process.env.DATABASE_URL,
     http: {
@@ -15,7 +15,6 @@ export default defineConfig({
   },
 
   modules: {
-    // ⚙️ On active les modules intégrés du framework
     [Modules.PRODUCT]: true,
     [Modules.PRICING]: true,
     [Modules.INVENTORY]: true,
