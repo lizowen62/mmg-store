@@ -40,6 +40,9 @@
     "node_modules",
     ".medusa/server",
     ".medusa/admin",
-    ".cache"
+    ".cache",
+    "integration-tests",
+    "__tests__",
+    "tests"
   ]
 }
