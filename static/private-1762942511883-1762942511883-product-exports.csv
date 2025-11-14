@@ -1,0 +1,4 @@
+Product Id,Product Handle,Product Title,Product Status,Product Thumbnail,Product Sales Channel 1,Variant Id
+prod_01K9VHW3YR7VSDBWVB6JJYCN9G,peluche-w,Peluche W,published,http://localhost:9000/static/1762935050165-IMG_0689.jpg,sc_01K9VHJ2RY4CNCM3ER2FJK684V,variant_01K9VHW40WQ8J4M52QQK4M2WKN
+prod_01K9VHYPX4JW11Q4WTP3WYTD5Q,winter-jack,Winter jack,published,http://localhost:9000/static/1762935135114-IMG_0632.jpg,sc_01K9VHJ2RY4CNCM3ER2FJK684V,variant_01K9VHYPYN6PF7M7DXWD9CHEWY
+prod_01K9VP8M1D2M0FEZED4DDWB3R4,loltest,LolTest,published,http://localhost:9000/static/1762939654171-Zoomteddybear.jpg,sc_01K9VHJ2RY4CNCM3ER2FJK684V,variant_01K9VP8M2MGNEF63A4FFS89ETR
